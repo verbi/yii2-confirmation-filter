@@ -3,7 +3,7 @@
 	"description": "Yii2 Confirmation Filter.",
 	"keywords": ["yii2", "extension", "confirmation", "filter"],
 	"type": "yii2-extension",
-	"license": "GPLv3",
+	"license": "GPL-3.0-or-later",
 	"authors": [
 		{
 			"name": "Philip Verbist",
